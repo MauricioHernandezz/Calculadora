@@ -1,0 +1,42 @@
+
+
+body {
+    background-color: rgb(117, 197, 135); /* Color de fondo */
+}
+
+
+form {
+    width:300px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+	background-color:#ccc;
+}
+
+h1 {
+    margin-left: 15%;
+    color: rgb(0, 68, 255);
+}
+
+input {
+    padding: 5px; /* Separa la letra del interior  */
+}
+
+label {
+    display: block; /* imput que queden debajo del label */
+    padding: 5px; /* Separando espacios internos */
+}
+
+
+button {
+    width:100%;
+	padding:9px 10px;
+	margin-top:20px;
+	border:1px solid #000;
+	border-radius:5px;
+	display:block;
+    cursor: pointer;
+	color:#fff;
+	background-color:#000;
+} 
+
